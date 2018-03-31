@@ -1,6 +1,6 @@
 # Code Battle
 
-This repo is a simple react app that makes use of Axios for Ajax Request, React Router for routing and Github API.
+This repo is a simple react app that makes use of fetch for Ajax Request, React Router for routing and Github API.
 
 # Overview
 1. See most popular repositories on Github
