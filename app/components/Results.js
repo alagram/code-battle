@@ -26,7 +26,7 @@ Profile.propTypes = {
   info: PropTypes.object.isRequired,
 }
 
-function Player ({ lable, profile, score }) {
+function Player ({ label, profile, score }) {
   return (
     <div>
       <h1 className='header'>{label}</h1>
