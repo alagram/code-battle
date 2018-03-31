@@ -49,7 +49,7 @@ export async function battle (players) {
 
   return results === null
     ? results
-    : sortPlayers(players);
+    : sortPlayers(results);
 }
 
 export async function fetchPopularRepos (language) {
